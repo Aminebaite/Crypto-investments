@@ -19,10 +19,13 @@ from sklearn.preprocessing import StandardScaler
 ## Installation Guide :
 The following PIP installation must be performed before running the program. 
 They include: 
+
 ```pip install -U scikit-learn````
 
-```conda install -c pyviz hvplot
-```
+
+```conda install -c pyviz hvplot```
+
+
 ## Usgae :
 The steps for this challenge are broken out into the following sections:
 ```Import the Data (provided in the starter code)
